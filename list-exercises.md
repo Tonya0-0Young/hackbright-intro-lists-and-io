@@ -12,7 +12,7 @@ Use the following list for the questions:
 
 ### How would I access the third element in the list? 
 
-'print my_list[2]'
+`print my_list[2]`
 
 ### How would I access the element at index 3? 
 
