@@ -12,22 +12,24 @@ Use the following list for the questions:
 
 ### How would I access the third element in the list? 
 
-`print my_list[2]`
+`my_list[2]`
 
 ### How would I access the element at index 3? 
 
-`print my_list[3]`
+`my_list[3]`
 
 ### What would I get if I did my_list[1]?
 
 2
 
 ### What are three ways I could access the last element of the list?
-*(HINT: Look up the len method for Python lists.)*
+`my_list[4]`
+`my_list[-1]`
+`my_list(len[
 
 - Your answer here (remember to commit after editing this line to contain your answer!)
+`len(my_list)`
 
-### How would I find the length of the list?
 
 - Your answer here (remember to commit after editing this line to contain your answer!)
 
