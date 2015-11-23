@@ -25,7 +25,7 @@ Use the following list for the questions:
 ### What are three ways I could access the last element of the list?
 `my_list[4]`
 `my_list[-1]`
-`len(my_list)-1`
+`my_list[len(my_list)-1]`
 
 ###How would I determine the legnth of the list?
 
