@@ -27,7 +27,9 @@ Use the following list for the questions:
 `my_list[-1]`
 `my_list(len[
 
-How would you determine the legnth of the list?
+###How would I determine the legnth of the list?
+
+
 `len(my_list)`
 
 
