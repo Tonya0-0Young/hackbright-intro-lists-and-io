@@ -27,11 +27,9 @@ Use the following list for the questions:
 `my_list[-1]`
 `my_list(len[
 
-- Your answer here (remember to commit after editing this line to contain your answer!)
+How would you determine the legnth of the list?
 `len(my_list)`
 
-
-- Your answer here (remember to commit after editing this line to contain your answer!)
 
 ### Use the list below to complete the following table (the first one is done for you):
 my_list = [1, 2, “kitten”,  4, “five”, 6, 7]
@@ -46,8 +44,6 @@ my_list[-1]   | 7
 my_list[-1:-3]| []
 my_list[-3:-1]| ['five',6]
 
-
-(remember to commit after editing this table to contain your answer, and removing this line!)
 
 # Review Time!
 
